@@ -43,6 +43,6 @@ If you're jailbroken, you can simply download it on your files and install it th
 - Edit field weakening parameter (increase assistance help in higher speeds)
 - Enable *Auto Unlock* on the C1+
 - Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
-- Reset PCB (printed circuit board)
+- Reset PCB (printed circuit board). Not resetting any settings made before with the app.
 
 The app is automatically finding any bike around, so please make sure you're connected to **your** bike before doing anything and that you're the only one with a cowboy around. It might evolve in a next update.
