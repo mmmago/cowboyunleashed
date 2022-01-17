@@ -49,3 +49,7 @@ If you're jailbroken, you can simply download it on your files and install it th
 - Enable *Auto Unlock* on the C1+
 - Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
 - Reset PCB (printed circuit board). Not resetting any settings made before with the app.
+
+The app is automatically scanning bluetooth devices around and will unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "store flash", then "close flash", which will also lock your bike.
+
+The settings are not stored until you don't press "store" and "close", so you can also just try them by quitting the app and letting the bike locks, which will keep the previous settings.
