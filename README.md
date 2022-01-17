@@ -23,7 +23,7 @@ Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[
 This took a few late night works and a bit of headache as someone new to iOS programming. If you're down to receive updates and improvements, please send feedbacks and don't hesitate [**to donate**](https://www.paypal.com/donate/?hosted_button_id=TUH8ECY3KP4BW).
 
 # Download / Installation
-[**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases/download/release/unleashed_1.0.ipa)
+[**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)
 
 As this app is not on the appstore, you need to **sideload it** with your favourite way. [Altstore](https://altstore.io/) can help you with that, but there are other way. **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
