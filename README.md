@@ -29,7 +29,7 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 # Download / Installation
 [**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)
 
-As this app is not on the appstore, you need to **sideload it** with your favourite way. [Altstore](https://altstore.io/) can help you with that, but there are other way. **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
+As this app is not on the appstore, you need to **sideload it** your favourite way. [Altstore](https://altstore.io/) can help you with that, but there are other way. **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
 If you're jailbroken, you can simply download it on your files and install it through [ReProvision](https://repo.packix.com/package/jp.soh.reprovision) and the auto-resign will do his job. I might create a repo later to install it directly through Sileo / Cydia.
 
