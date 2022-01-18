@@ -1,5 +1,5 @@
 # Legal Notice
-**1. I am not resposible to anything worse that could happen to your bike because of this app**
+**1. I am not responsible to anything worse that could happen to your bike because of this app**
 
 **2. Be careful that lifting the 25km/h limit could make your bike not eligible to ride on streets and public space and therefore make it illegal, please use in private areas**
 
