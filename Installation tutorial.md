@@ -21,3 +21,4 @@
 
 
 The procedure should be similar on windows, but I can't test it, and I don't know about the mail plug-in.
+You can also use [sideloadly](https://sideloadly.io/).
