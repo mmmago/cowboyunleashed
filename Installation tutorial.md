@@ -25,6 +25,6 @@
 
 # Installation tutorial (Windows)
 
+# Sideloadly
 
-The procedure should be similar on windows, but I can't test it, and I don't know about the mail plug-in.
-You can also use [sideloadly](https://sideloadly.io/).
+- [Simply install sideloadly](https://sideloadly.io/), log your Apple ID (it's safe), and drag the IPA inside the app to install it on your phone.
