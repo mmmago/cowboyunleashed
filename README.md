@@ -29,7 +29,7 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 # Download / Installation
 [**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)
 
-As this app is not on the appstore, you need to **sideload it** your favourite way. [Altstore](https://altstore.io/), or [sideloadly](https://sideloadly.io/) can help you with that, but there are other way. **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** 
+As this app is not on the appstore, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other way. **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** 
 
 Please see [installation tutorial](https://github.com/mmmago/cowboyunleashed/blob/main/Installation%20tutorial.md).
 
