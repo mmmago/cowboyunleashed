@@ -1,5 +1,11 @@
 # Installation tutorial (mac)
 
+# Sideloadly
+
+- [Simply install sideloadly](https://sideloadly.io/), log your Apple ID (it's safe), and drag the IPA inside the app to install it on your phone.
+
+# Altstore
+
 - Install the [altstore](https://altstore.io/) client on your computer and launch it
 - Make sur the "Mail" app is running on your mac, it might ask you to install an add-on
 - Go to mail settings -> general tab -> manage add-ons (bottom left corner)
