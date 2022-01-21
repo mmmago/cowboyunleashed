@@ -56,7 +56,7 @@ If you're jailbroken, you can simply download it on your files and install it th
 
 The app is automatically scanning bluetooth devices around and will unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "store flash", then "close flash", which will also lock your bike.
 
-The settings are not stored until you don't press "store" and "close", so if you just want to try some settings, apply them without storing. Locking the bike will dismiss them. Note that anyway, **all changes are reversible**, as you can set everything to default. (Speed limit enabled, FW 0%, HIT 1).
+The settings are not stored until you don't press "store" and "close", so if you just want to try some settings or use them for your current ride, apply them without storing. Locking the bike will dismiss them. Note that anyway, **all changes are reversible**, as you can set everything to default. (Speed limit enabled, FW 0%, HIT 1).
 
 Exemple of settings to apply : 
 
