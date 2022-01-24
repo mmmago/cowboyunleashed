@@ -62,3 +62,15 @@ Exemple of settings to apply :
 
 - Remove speed limit / FW 15% ( / test ) / store in flash / close flash
 - Enable speed limit / FW 0% / store in flash / close flash (reset to default)
+
+## Quick Actions presets :
+
+<img width="240" alt="Capture d’écran 2022-01-24 à 15 40 38" src="https://user-images.githubusercontent.com/76073612/150803966-bf73d02c-f465-47e8-ab08-d86fa688c051.png">
+
+V1.2 allows you to choose a preset via Quick Action. Currently, you have to make sure the app is already launched and linked to your bike to select them. These are not stored once you apply them.
+
+- Default Speed : Limit enabled / FW 0%
+- Speed Mode 1 : Speed limit disabled / FW 15%
+- Speed Mode 2 : Speed limit disabled / FW 18%
+- Speed Mode 3 : Speed limit disabled / FW 20%
+
