@@ -69,7 +69,7 @@ Exemple of settings to apply :
 
 V1.2 allows you to choose a preset via Quick Action. Currently, you have to make sure the app is already launched and linked to your bike to select them. These are not stored once you apply them.
 
-- Default Speed : Limit enabled / FW 0%
+- Default Speed : Speed limit enabled / FW 0%
 - Speed Mode 1 : Speed limit disabled / FW 15%
 - Speed Mode 2 : Speed limit disabled / FW 18%
 - Speed Mode 3 : Speed limit disabled / FW 20%
