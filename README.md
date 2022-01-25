@@ -40,10 +40,7 @@ If you're jailbroken, you can simply download it on your files and install it th
 
 # Preview
 
-<img width="332" alt="Capture d’écran 2022-01-21 à 12 51 41" src="https://user-images.githubusercontent.com/76073612/150522653-d40f8be5-0f37-47c9-a802-eca6bf60ac95.png"> <img width="390" alt="Capture d’écran 2022-01-17 à 20 34 13" src="https://user-images.githubusercontent.com/76073612/149828134-3fbf8652-812a-467b-b3b3-44cc7801623a.png">
-
-
-(Buttons UI are only showing on iOS 15+)
+<img width="332" alt="Capture d’écran 2022-01-21 à 12 51 41" src="https://user-images.githubusercontent.com/76073612/150522653-d40f8be5-0f37-47c9-a802-eca6bf60ac95.png"> 
 
 
 # Main features
