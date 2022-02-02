@@ -40,6 +40,8 @@ If you don't know anything about sideloading, [here is a guide](https://www.redd
 
 If you're jailbroken, you can simply download it on your files and install it through [ReProvision](https://repo.packix.com/package/jp.soh.reprovision) and the auto-resign will do his job. I might create a repo later to install it directly through Sileo / Cydia.
 
+###### *Tip for jailbroken users : you can combine Bakgrunnur, Activator, and settings in Unleashed to automate lock / unlock the way you want.* 
+
 # Preview
 
  
