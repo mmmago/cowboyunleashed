@@ -44,8 +44,7 @@ If you're jailbroken, you can simply download it on your files and install it th
 
 # Preview
 
-![ezgif-6-e168bd17fb](https://user-images.githubusercontent.com/76073612/152545687-52062dc3-90a1-42e5-b7ca-3aa89602948b.gif)
-
+![ezgif-6-e168bd17fb](https://user-images.githubusercontent.com/76073612/152545687-52062dc3-90a1-42e5-b7ca-3aa89602948b.gif)        <img width="300" alt="Capture d’écran 2022-02-04 à 15 29 13" src="https://user-images.githubusercontent.com/76073612/152546152-1feffea7-faa4-415c-9bb9-2367406f8f0c.png">        <img width="308" alt="Capture d’écran 2022-02-04 à 15 27 36" src="https://user-images.githubusercontent.com/76073612/152545969-3cc5a79f-0231-4b3f-8214-27d3c825893a.png">
 
 
 
