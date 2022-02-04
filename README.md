@@ -28,6 +28,10 @@ Also, thanks to [Runerune](https://github.com/runerune) for **[Bronco](https://g
 
 This took a few late night works and a bit of headache as someone new to iOS programming. If you're down to receive updates and improvements, please send feedbacks and don't hesitate [**to donate**](https://www.paypal.com/donate/?hosted_button_id=TUH8ECY3KP4BW).
 
+# Preview
+
+![ezgif-6-e168bd17fb](https://user-images.githubusercontent.com/76073612/152545687-52062dc3-90a1-42e5-b7ca-3aa89602948b.gif)        <img width="300" alt="Capture d’écran 2022-02-04 à 15 29 13" src="https://user-images.githubusercontent.com/76073612/152546152-1feffea7-faa4-415c-9bb9-2367406f8f0c.png">
+
 # Download / Installation
 [**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)
 
@@ -41,10 +45,6 @@ If you don't know anything about sideloading, [here is a guide](https://www.redd
 If you're jailbroken, you can simply download it on your files and install it through [ReProvision](https://repo.packix.com/package/jp.soh.reprovision) and the auto-resign will do his job. I might create a repo later to install it directly through Sileo / Cydia.
 
 ###### *Tip for jailbroken users : you can combine Bakgrunnur, Activator, and settings in Unleashed to automate lock / unlock the way you want.* 
-
-# Preview
-
-![ezgif-6-e168bd17fb](https://user-images.githubusercontent.com/76073612/152545687-52062dc3-90a1-42e5-b7ca-3aa89602948b.gif)        <img width="300" alt="Capture d’écran 2022-02-04 à 15 29 13" src="https://user-images.githubusercontent.com/76073612/152546152-1feffea7-faa4-415c-9bb9-2367406f8f0c.png">
 
 
 # Main features
