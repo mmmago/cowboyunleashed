@@ -30,10 +30,12 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 
 # Preview
 
-![ezgif-6-e168bd17fb](https://user-images.githubusercontent.com/76073612/152545687-52062dc3-90a1-42e5-b7ca-3aa89602948b.gif)        <img width="300" alt="Capture d’écran 2022-02-04 à 15 29 13" src="https://user-images.githubusercontent.com/76073612/152546152-1feffea7-faa4-415c-9bb9-2367406f8f0c.png">
+![ezgif-6-e168bd17fb](https://user-images.githubusercontent.com/76073612/152545687-52062dc3-90a1-42e5-b7ca-3aa89602948b.gif)        <img width="314" alt="Capture d’écran 2022-02-07 à 22 18 48" src="https://user-images.githubusercontent.com/76073612/152873628-9fdb015e-0bdc-4fda-90cd-ca3111b2c165.png">
+
 
 # Download / Installation
-[**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)
+[**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)!
+
 
 ### You don't need to be jailbroken and don't need an apple developper account to install it.
 
