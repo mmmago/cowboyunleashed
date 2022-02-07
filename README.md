@@ -39,10 +39,14 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 
 As this app is not on the appstore for obvious reasons, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other way. **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** 
 
-Please see [installation tutorial](https://github.com/mmmago/cowboyunleashed/blob/main/Installation%20tutorial.md).
+## Installation tutorial 
 
+### Sideloadly
 
-If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
+- [Simply install sideloadly](https://sideloadly.io/), log your Apple ID (it's safe), and drag the IPA inside the app to install it on your phone.
+- Then, on your phone, you might have to go under Settings -> General -> Profiles and authorize the app by clicking on it.
+
+##### If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
 If you're jailbroken, you can simply download it on your files and install it through [ReProvision](https://repo.packix.com/package/jp.soh.reprovision) and the auto-resign will do his job so you'll keep it as a regular app. I might create a repo later to install it directly through Sileo / Cydia.
 
