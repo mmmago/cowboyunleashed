@@ -20,9 +20,8 @@ Working on my SE 2020 iOS 14.3, but should be working on all devices >iOS 13.
 
 # Shout out
 
-Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[Cowboy Untamed](https://github.com/Imaginous/Cowboy_Untamed)**, without him there wouldn't even be any way to tweak our bikes. You will also find a lot of useful infos about the settings you'll find in the app on his page.
+Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[Cowboy Untamed](https://github.com/Imaginous/Cowboy_Untamed)** and [Runerune](https://github.com/runerune) for **[Bronco](https://github.com/runerune/BroncoUnleashed)** (open source! ), without them there wouldn't even be any way to tweak our bikes. You will also find a lot of useful infos about the settings you'll find in the app on their page.
 
-Also, thanks to [Runerune](https://github.com/runerune) for **[Bronco](https://github.com/runerune/BroncoUnleashed)**. The open source code has been helpful !
 
 # Donate
 
