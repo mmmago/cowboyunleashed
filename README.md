@@ -54,7 +54,7 @@ As this app is not on the appstore for obvious reasons, you need to **sideload i
 
 If you're jailbroken, you can simply download it on your files and install it through [ReProvision](https://repo.packix.com/package/jp.soh.reprovision) and the auto-resign will do his job so you'll keep it as a regular app. I might create a repo later to install it directly through Sileo / Cydia.
 
-###### *Tip for jailbroken users : you can combine Bakgrunnur, Activator, and settings in Unleashed to automate lock / unlock the way you want.* 
+###### *Tip for jailbroken users : you can combine Bakgrunnur, Activator, and settings in Unleashed to automate lock / unlock the way you want, I did with a volume down + sleep button press to unlock the bike.* 
 
 
 # Main features
