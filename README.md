@@ -16,7 +16,8 @@ An iOS app to lift the speed limit of your Cowboy Bike.
 
 This iOS app allows you to debrid your Cowboy (C1 -> C4) bike and make it a bit more fun and easy to ride.
 
-Confirmed working on **firmware 4.12.3** and lower.
+- App compatible with all iPhones iOS 13 -> iOS 15
+- Confirmed working on cowboy **firmware 4.12.3** and lower.
 
 
 
