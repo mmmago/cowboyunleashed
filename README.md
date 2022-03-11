@@ -61,7 +61,7 @@ If you're jailbroken, you can simply download it on your files and install it th
 
 # Main features
 
-- Customize or diable the 25km/h speed limit 
+- Customize or disable the 25km/h speed limit 
 - Edit field weakening parameter (increase assistance help in higher speeds)
 - Enable *Auto Unlock* on the C1+
 - Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
