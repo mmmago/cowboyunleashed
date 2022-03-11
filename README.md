@@ -33,7 +33,8 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 # Preview
 
 
-![ezgif-5-59389cc27e](https://user-images.githubusercontent.com/76073612/156061502-240bce81-15e9-43ec-be57-a8353a3f41f8.gif) <img width="314" alt="Capture d’écran 2022-02-07 à 22 18 48" src="https://user-images.githubusercontent.com/76073612/152873628-9fdb015e-0bdc-4fda-90cd-ca3111b2c165.png">
+![ezgif-5-59389cc27e](https://user-images.githubusercontent.com/76073612/156061502-240bce81-15e9-43ec-be57-a8353a3f41f8.gif) <img width="314" alt="Capture d’écran 2022-03-11 à 13 54 26" src="https://user-images.githubusercontent.com/76073612/157870453-a4b45dd5-9364-4ff6-ba1b-ba5400760c57.png">
+
 
 
 # Download / Installation
