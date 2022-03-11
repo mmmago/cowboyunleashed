@@ -52,6 +52,7 @@ As this app is not on the appstore for obvious reasons, you need to **sideload i
 - [Simply install sideloadly](https://sideloadly.io/) (mac/win), log your Apple ID email, and drag the IPA inside the app to install it on your phone.
 - If you got install trouble here, select "advanced options" and tick "normal install" instead of "Apple ID Sideload"
 - Then, on your phone, you might have to go under Settings -> General -> Profiles and authorize the app by clicking on it.
+- Profit 
 
 ##### If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
