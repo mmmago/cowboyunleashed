@@ -56,7 +56,7 @@ As this app is not on the appstore for obvious reasons, you need to **sideload i
 
 ##### If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
-If you're jailbroken, you can simply download it on your files and install it through [ReProvision](https://repo.packix.com/package/jp.soh.reprovision) and the auto-resign will do his job so you'll keep it as a regular app. I might create a repo later to install it directly through Sileo / Cydia.
+If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your Sileo / Cydia sources and install the app from there.
 
 ###### *Tip for jailbroken users : you can combine Bakgrunnur, Activator, and settings in Unleashed to automate lock / unlock the way you want, I did with a volume down + sleep button press to unlock the bike.* 
 
