@@ -50,6 +50,9 @@ As this app is not on the appstore for obvious reasons, you need to **sideload i
 ### AltStore
 
 - [Installation process can be found here](https://altstore.io/faq/)
+- Download the .ipa directly on your iphone
+- Go through your file, select the app and "Install with AltStore"
+- Profit
 
 ### Sideloadly
 
