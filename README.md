@@ -47,6 +47,10 @@ As this app is not on the appstore for obvious reasons, you need to **sideload i
 
 ## Installation tutorial 
 
+### AltStore
+
+- [Installation process can be found here](https://altstore.io/faq/)
+
 ### Sideloadly
 
 - [Simply install sideloadly](https://sideloadly.io/) (mac/win), log your Apple ID email, and drag the IPA inside the app to install it on your phone.
