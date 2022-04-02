@@ -52,7 +52,7 @@ As this app is not on the appstore for obvious reasons, you need to **sideload i
 - [Installation process can be found here](https://altstore.io/faq/)
 - Download the .ipa directly via your iphone
 - Go through your file, select the app and "Install with AltStore"
-- Profit
+- Profit (you can re-sign the app every 7 days directly via AltStore)
 
 ### Sideloadly
 
