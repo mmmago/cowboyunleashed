@@ -5,7 +5,7 @@
 
 **3. This app could void your warranty**
 
-**4. The app is still in beta phase, bugs might be sneaking around (nothing harmful).
+**4. The app is still in beta phase, bugs might be sneaking around (nothing harmful).**
 
 
 
