@@ -1,9 +1,11 @@
-# Legal Notice
+# Legal Notice / Disclaimer
 **1. I am not responsible to anything worse that could happen to your bike because of this app**
 
 **2. Be careful that lifting the 25km/h limit could make your bike not eligible to ride on streets and public space and therefore make it illegal, please use in private areas**
 
 **3. This app could void your warranty**
+
+**4. The app is still in beta phase, bugs might be sneaking around (nothing harmful).
 
 
 
