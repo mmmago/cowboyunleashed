@@ -35,7 +35,8 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 # Preview
 
 
-![ezgif-5-59389cc27e](https://user-images.githubusercontent.com/76073612/156061502-240bce81-15e9-43ec-be57-a8353a3f41f8.gif) <img width="314" alt="Capture d’écran 2022-03-11 à 13 54 26" src="https://user-images.githubusercontent.com/76073612/157870453-a4b45dd5-9364-4ff6-ba1b-ba5400760c57.png">
+![ezgif-aaaa2-4bd3e1781b](https://user-images.githubusercontent.com/76073612/162585800-dafea821-1c84-4d49-9c47-1e60deb0575c.gif)
+ <img width="327" alt="Capture d’écran 2022-03-11 à 13 54 26" src="https://user-images.githubusercontent.com/76073612/157870453-a4b45dd5-9364-4ff6-ba1b-ba5400760c57.png">
 
 
 
@@ -72,13 +73,14 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 
 # Main features
 
+- Alternative dashboard (press speedometer to show)
 - Customize or disable the 25km/h speed limit 
 - Edit field weakening parameter (increase assistance help in higher speeds)
 - Enable *Auto Unlock* on the C1+
 - Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
 - Edit blinking rear light sensivity when you brake
 - Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
-- Alternative dashboard
+
 
 The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
 
