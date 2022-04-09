@@ -96,7 +96,9 @@ Exemple of settings to apply :
 
 ## Quick Actions presets :
 
-<img width="240" alt="Capture d’écran 2022-01-24 à 15 40 38" src="https://user-images.githubusercontent.com/76073612/150803966-bf73d02c-f465-47e8-ab08-d86fa688c051.png">
+
+![IMG_8006](https://user-images.githubusercontent.com/76073612/162588704-2d634919-285b-45ec-b9e8-5fcbddf0a453.jpg)
+
 
 V1.2 allows you to choose a preset via Quick Action. Currently, you have to make sure the app is already launched and connected to your unlocked bike to select them. These are not stored once you apply them.
 
