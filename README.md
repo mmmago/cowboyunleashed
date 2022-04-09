@@ -73,13 +73,16 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 
 # Main features
 
-- Alternative dashboard (press speedometer to show)
-- Customize or disable the 25km/h speed limit 
-- Edit field weakening parameter (increase assistance help in higher speeds)
-- Enable *Auto Unlock* on the C1+
-- Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
-- Edit blinking rear light sensivity when you brake
-- Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
+1. Alternative dashboard 
+- Press speedometer to show
+- Long press assistance button to disable / enable speed limit
+- While disabled, press assistance button to switch between speed modes (see quick actions presets below).
+2. Customize or disable the 25km/h speed limit 
+3. Edit field weakening parameter (increase assistance help in higher speeds)
+4. Enable *Auto Unlock* on the C1+
+5. Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
+6. Edit blinking rear light sensivity when you brake
+7.  Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
 
 
 The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
