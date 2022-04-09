@@ -100,5 +100,4 @@ V1.2 allows you to choose a preset via Quick Action. Currently, you have to make
 - Default Speed : Speed limit enabled / FW 0%
 - Speed Mode 1 : Speed limit disabled / FW 15%
 - Speed Mode 2 : Speed limit disabled / FW 18%
-- Speed Mode 3 : Speed limit disabled / FW 20%
 
