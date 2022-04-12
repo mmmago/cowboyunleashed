@@ -94,6 +94,13 @@ Exemple of settings to apply :
 - Remove speed limit / FW 15% ( / test ) / flash
 - Enable speed limit / FW 0% / flash (reset to default)
 
+
+## To do list :
+
+- Customizable presets & speed modes
+- Navigation
+- Reset settings to default
+
 ## Quick Actions presets :
 
 <img width="254" alt="Capture d’écran 2022-04-09 à 21 21 52" src="https://user-images.githubusercontent.com/76073612/162588738-6f86eaf2-beef-44be-9550-f0f293b871e0.png">
