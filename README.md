@@ -74,9 +74,8 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 # Main features
 
 1. Alternative dashboard 
-- Press speedometer to show
 - Long press assistance button to disable / enable speed limit
-- While disabled, press assistance button to switch between speed modes (see quick actions presets below).
+- While disabled, press assistance button to switch between speed modes (customizable in settings).
 2. Customize or disable the 25km/h speed limit 
 3. Edit field weakening parameter (increase assistance help in higher speeds)
 4. Enable *Auto Unlock* on the C1+
@@ -97,7 +96,6 @@ Exemple of settings to apply :
 
 ## To do list :
 
-- Customizable presets & speed modes
 - Navigation
 - Reset settings to default
 
@@ -110,4 +108,6 @@ V1.2 allows you to choose a preset via Quick Action. Currently, you have to make
 - Default Speed : Speed limit enabled / FW 0%
 - Speed Mode 1 : Speed limit disabled / FW 15%
 - Speed Mode 2 : Speed limit disabled / FW 18%
+
+These are the default values. v4.1 allows to tweak them.
 
