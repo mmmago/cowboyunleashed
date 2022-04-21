@@ -46,7 +46,7 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 
 ### You don't need to be jailbroken and don't need an apple developper account to install it.
 
-As this app is not on the appstore for obvious reasons, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/) ). **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things might change soon](https://www.macrumors.com/2022/03/17/eu-sideloading-bill-coming-soon/))
+As this app is not on the appstore (yet ?), you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/) ). **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things might change soon](https://www.macrumors.com/2022/03/17/eu-sideloading-bill-coming-soon/))
 
 ## Installation tutorial 
 
