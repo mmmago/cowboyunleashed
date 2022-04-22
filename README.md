@@ -30,7 +30,7 @@ Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[
 
 # Donate
 
-This took a few late night works and a bit of headache as someone new to iOS programming. If you're down to receive updates and improvements, please send feedbacks and don't hesitate [**to donate**](https://www.paypal.com/donate/?hosted_button_id=TUH8ECY3KP4BW).
+This took a few late night works and a bit of headache as someone new to iOS programming. If you're down to receive updates and improvements, please send feedbacks and don't hesitate [**to donate**](https://linktr.ee/mmmago).
 
 # Preview
 
