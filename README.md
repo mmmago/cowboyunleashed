@@ -97,7 +97,6 @@ Exemple of settings to apply :
 ## To do list :
 
 - Navigation
-- Reset settings to default
 
 ## Quick Actions presets :
 
