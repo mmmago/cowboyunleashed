@@ -50,19 +50,18 @@ As this app is not on the appstore (yet ?), you need to **sideload it** your fav
 
 ## Installation tutorial 
 
+### Sideloadly
+
+- [Simply install sideloadly](https://sideloadly.io/) (mac/win), log your Apple ID email, and drag the IPA inside the app to install it on your phone.
+- Then, on your phone, you might have to go under Settings -> General -> Profiles and authorize the app by clicking on it.
+- Profit 
+
 ### AltStore
 
 - [Installation process can be found here](https://altstore.io/faq/)
 - Download the .ipa directly via your iphone
 - Go through your file, select the app and "Install with AltStore"
 - Profit (you can re-sign the app every 7 days directly via AltStore)
-
-### Sideloadly
-
-- [Simply install sideloadly](https://sideloadly.io/) (mac/win), log your Apple ID email, and drag the IPA inside the app to install it on your phone.
-- If you got install trouble here, select "advanced options" and tick "normal install" instead of "Apple ID Sideload"
-- Then, on your phone, you might have to go under Settings -> General -> Profiles and authorize the app by clicking on it.
-- Profit 
 
 ##### If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
