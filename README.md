@@ -74,6 +74,7 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 # Main features
 
 1. Alternative dashboard 
+- Basic navigation capabilitites using Apple MapKit
 - Long press assistance button to disable / enable speed limit
 - While disabled, press assistance button to switch between speed modes (customizable in settings).
 2. Customize or disable the 25km/h speed limit 
@@ -93,10 +94,6 @@ Exemple of settings to apply :
 - Remove speed limit / FW 15% ( / test ) / flash
 - Enable speed limit / FW 0% / flash (reset to default)
 
-
-## To do list :
-
-- Navigation
 
 ## Quick Actions presets :
 
