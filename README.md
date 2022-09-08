@@ -85,14 +85,16 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 
 The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
 
-### To clarify, you can use both this app and the Cowboy app, just not at the same time, otherwhise the bike might not be detected. Once the settings are flashed in the bik, they are stored and are not dependent of this application.
+### To clarify, you can use both this app and the Cowboy app, just not at the same time, otherwhise the bike might not be detected. Once the settings are flashed in the bike, they are stored and are not dependent of this application.
 
-The settings are not stored until you don't press "flash", so if you just want to try some settings or use them for your current ride, apply them without storing. Locking the bike will dismiss them. Note that anyway, **all changes are reversible**, as you can set everything to default. (Speed limit enabled, FW 0%, HIT 1).
+The settings are not stored until you don't press "flash", so if you just want to try some settings or use them for your current ride, apply them without storing (with the "flash" button). Locking the bike will dismiss them. Note that anyway, **all changes are reversible**, as you can set everything to default. (Speed limit enabled, FW 0%, HIT 1).
 
 Exemple of settings to apply : 
 
 - Remove speed limit / FW 15% ( / test ) / flash
 - Enable speed limit / FW 0% / flash (reset to default)
+
+Enabling speed limit and settings any field weakening values have no effect.
 
 
 ## Quick Actions presets :
