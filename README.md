@@ -83,8 +83,9 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 6. Edit blinking rear light sensivity when you brake
 7.  Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
 
-
 The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
+
+# To clarify, you can use both this app and the Cowboy app, just not at the same time, otherwhise the bike might not be detected. Once the settings are flashed in the bik, they are stored and are not dependent of this application.
 
 The settings are not stored until you don't press "flash", so if you just want to try some settings or use them for your current ride, apply them without storing. Locking the bike will dismiss them. Note that anyway, **all changes are reversible**, as you can set everything to default. (Speed limit enabled, FW 0%, HIT 1).
 
