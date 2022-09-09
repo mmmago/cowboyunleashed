@@ -82,6 +82,7 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 5. Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
 6. Edit blinking rear light sensivity when you brake
 7.  Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
+8. Read other bike values (battery cycles)
 
 The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
 
