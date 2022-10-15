@@ -9,7 +9,7 @@
 
 
 
-# cowboyunleashed
+# cowboy unleashed
 An iOS app to lift the speed limit of your Cowboy Bike. 
 
 
