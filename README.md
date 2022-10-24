@@ -48,6 +48,8 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 
 As this app is not on the appstore, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/) ). **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things might change soon](https://www.macrumors.com/2022/03/17/eu-sideloading-bill-coming-soon/))
 
+If your device is compatible, you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
+
 ## Installation tutorial 
 
 ### Sideloadly
