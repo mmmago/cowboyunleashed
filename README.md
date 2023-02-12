@@ -52,6 +52,12 @@ If your device is compatible, you can use [Trollstore](https://trollstore.app/) 
 
 ## Installation tutorial 
 
+### Scarlett
+
+- Install Scarlett from [here](https://resources.usescarlet.com/install.php) (select direct install)
+- Install .ipa with Scarlett.
+
+
 ### Sideloadly
 
 - [Simply install sideloadly](https://sideloadly.io/) (mac/win), log your Apple ID email, and drag the IPA inside the app to install it on your phone.
