@@ -19,7 +19,7 @@ An iOS app to lift the speed limit of your Cowboy Bike.
 This iOS app allows you to debrid your Cowboy (C1 -> C4) bike and make it a bit more fun and easy to ride, and allows you to read some internal bike values.
 
 - App compatible with all iPhones iOS 13 -> iOS 16
-- Confirmed working on cowboy **firmware 4.15** and lower.
+- Confirmed working on cowboy **firmware 4.16.3** and lower.
 
 
 
@@ -46,7 +46,8 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 
 ### You don't need to be jailbroken and don't need an apple developper account to install it.
 
-As this app is not on the appstore, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/) ). **Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things might change soon](https://www.macrumors.com/2022/03/17/eu-sideloading-bill-coming-soon/))
+As this app is not on the appstore, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/), [Scarlett](https://usescarlet.com/) ).
+**Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things will change soon with iOS 17](https://techcrunch.com/2022/12/14/apple-will-reportedly-allow-sideloading-apps-with-ios-17/)
 
 If your device is compatible, you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
 
@@ -67,10 +68,6 @@ If your device is compatible, you can use [Trollstore](https://trollstore.app/) 
 
 ##### If you don't know anything about sideloading, [here is a guide](https://www.reddit.com/r/sideloaded/comments/orqzau/guide_a_complete_beginners_guide_to_sideloading/).
 
-If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your Sileo / Cydia sources and install the app from there.
-
-###### *Tip for jailbroken users : you can combine Bakgrunnur, Activator, and settings in Unleashed to automate lock / unlock the way you want, I did with a volume down + sleep button press to unlock the bike.* 
-
 
 # Main features
 
@@ -84,7 +81,7 @@ If you're jailbroken, you can simply add https://mmmago.github.io/repo/ to your 
 5. Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
 6. Edit blinking rear light sensivity when you brake
 7.  Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
-8. Read other bike values (battery cycles)
+8. Read other bike values (like battery cycles)
 
 The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
 
