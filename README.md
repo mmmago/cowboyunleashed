@@ -1,3 +1,8 @@
+
+
+# <img width="50" alt="unleasged" src="https://user-images.githubusercontent.com/76073612/224371068-4364b7a5-bb95-4417-a5d0-2e95d5c08cc1.png"> cowboy unleashed
+An iOS app to lift the speed limit of your Cowboy Bike. 
+
 # Legal Notice / Disclaimer
 **1. I am not responsible to anything worse that could happen to your bike because of this app**
 
@@ -7,14 +12,7 @@
 
 **4. The app is still in beta phase, bugs might be sneaking around (nothing harmful).**
 
-
-
-# cowboy unleashed
-An iOS app to lift the speed limit of your Cowboy Bike. 
-
-
-![repository-opaaen-graph-template](https://user-images.githubusercontent.com/76073612/149851972-9bbeed50-0823-4da1-b744-0e3f4f4e59ca.png)
-
+# Usage
 
 This iOS app allows you to debrid your Cowboy (C1 -> C4) bike and make it a bit more fun and easy to ride, and allows you to read some internal bike values.
 
