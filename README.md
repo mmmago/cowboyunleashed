@@ -43,13 +43,11 @@ This took a few late night works and a bit of headache as someone new to iOS pro
 # Download / Installation
 [**Download the IPA here**](https://github.com/mmmago/cowboyunleashed/releases)!
 
+As this app is not on the appstore, you need to **sideload it** your favourite way. The process is quite easy, [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/), [Scarlett](https://usescarlet.com/) ).
 
-### You don't need to be jailbroken and don't need an apple developper account to install it.
+**If using Sideloadly or AltStore, be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things will change soon with iOS 17](https://techcrunch.com/2022/12/14/apple-will-reportedly-allow-sideloading-apps-with-ios-17/) )
 
-As this app is not on the appstore, you need to **sideload it** your favourite way. [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/), [Scarlett](https://usescarlet.com/) ).
-**Be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things will change soon with iOS 17](https://techcrunch.com/2022/12/14/apple-will-reportedly-allow-sideloading-apps-with-ios-17/)
-
-If your device is compatible, you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
+##### If your device is compatible (iOS 14.0 - 15.1.1), you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
 
 ## Installation tutorial 
 
