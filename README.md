@@ -19,7 +19,7 @@ This iOS app allows you to debrid your Cowboy (C1 -> C4) bike and make it a bit 
 - App compatible with all iPhones iOS 13 -> iOS 16
 - Confirmed working on cowboy **firmware 4.17** and lower.
 
-#### Note regarding C4(ST) on 4.17 and AdaptivePower : the app is not messing with how the motor power is delivered, it is only removing the speed limit, so still perfectly compatible. 
+#### Note regarding C4(ST) on 4.17 and AdaptivePower : the app is not messing with how the motor power is delivered, it is only removing the speed limit, so still perfectly compatible. However, setting your bike in "ECO" mode might overwrite and mess with the speed settings.
 
 
 
