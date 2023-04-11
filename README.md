@@ -4,23 +4,23 @@
 An iOS app to lift the speed limit of your Cowboy Bike. 
 
 # Legal Notice / Disclaimer
-**1. I am not responsible to anything worse that could happen to your bike because of this app**
 
-**2. Be careful that lifting the 25km/h limit could make your bike not eligible to ride on streets and public space and therefore make it illegal, please use in private areas**
+   **1. I cannot be held responsible for any damage or harm that may occur to your bike as a result of using this app.**
 
-**3. This app could void your warranty**
+**2. Please be aware that removing the 25km/h speed limit may render your bike unsuitable for use on public roads and spaces, and as such may be considered illegal. Please only use the app in private areas.**
 
-**4. The app is still in beta phase, bugs might be sneaking around (nothing harmful).**
+**3. Using this app may invalidate your warranty.**
+
+**4. Please note that the app is still in its beta phase, and although any bugs are not expected to cause harm, they may still exist.**
 
 # Usage
 
-This iOS app allows you to debrid your Cowboy (C1 -> C4) bike and make it a bit more fun and easy to ride, and allows you to read some internal bike values.
+This iOS app enables you to debrid your Cowboy (C1 -> C4) bike, which enhances its riding experience and makes it more enjoyable. Additionally, the app allows you to view some internal bike metrics.
 
-- App compatible with all iPhones iOS 13 -> iOS 16
+- Compatible with all iPhones iOS 13 -> iOS 16
 - Confirmed working on cowboy **firmware 4.17** and lower.
 
-#### Note regarding C4(ST) on 4.17 and AdaptivePower : the app is not messing with how the motor power is delivered, it is only removing the speed limit, so still perfectly compatible. However, setting your bike in "ECO" mode might overwrite and mess with the speed settings.
-
+#### Note for users of C4(ST) on 4.17 firmware and AdaptivePower: The app does not alter how the motor power is delivered; it simply removes the speed limit, so it is still fully compatible. However, adjusting your bike to "ECO" mode may override and affect the speed settings.
 
 
 # Shout out
@@ -30,7 +30,7 @@ Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[
 
 # Donate
 
-This took a few late night works and a bit of headache as someone new to iOS programming. If you're down to receive updates and improvements, please send feedbacks and don't hesitate [**to donate**](https://linktr.ee/mmmago).
+Creating this app required several late-night sessions and some headaches, especially since I am new to iOS programming. If you would like to receive future updates and improvements, please provide your feedback and consider supporting me by [**donating**](https://linktr.ee/mmmago).
 
 # Preview
 
@@ -74,18 +74,18 @@ As this app is not on the appstore, you need to **sideload it** your favourite w
 - Long press assistance button to disable / enable speed limit
 - While disabled, press assistance button to switch between speed modes (customizable in settings).
 2. Customize or disable the 25km/h speed limit 
-3. Edit field weakening parameter (increase assistance help in higher speeds)
+3. Edit the field weakening parameter to increase assistance at higher speeds.
 4. Enable *Auto Unlock* on the C1+
-5. Edit Hall Interpolation Transitions (HIT) (resolve motor judder at startup)
+5. Edit the Hall Interpolation Transitions (HIT) to resolve motor judder at startup.
 6. Edit blinking rear light sensivity when you brake
-7.  Reset PCB (printed circuit board). Not resetting any settings made before with the app. Might resolve some light bug on the C1+ and overall connectivity problem.
-8. Read other bike values (like battery cycles)
+7.  Reset the PCB (printed circuit board), which might resolve some minor issues with the C1+ and improve connectivity. Note that this won't reset any other settings made with the app.
+8. Read other bike values, such as battery cicles
 
-The app is automatically scanning bluetooth devices around and will ask you to unlock your bike if it founds it. Set the settings you need, try them on, then if you want to keep them, press "flash", which will also lock your bike.
+The app automatically scans for Bluetooth devices and prompts you to unlock your bike if it finds it. Set the desired settings, try them out, and if you wish to keep them, press "flash," which will also lock your bike.
 
-### To clarify, you can use both this app and the Cowboy app, just not at the same time, otherwhise the bike might not be detected. Once the settings are flashed in the bike, they are stored and are not dependent of this application.
+### To clarify, you can use both this app and the Cowboy app, but not at the same time, as this might prevent the bike from being detected. Once the settings are flashed into the bike, they are stored and not dependent on this app.
 
-The settings are not stored until you don't press "flash", so if you just want to try some settings or use them for your current ride, apply them without storing (with the "flash" button). Locking the bike will dismiss them. Note that anyway, **all changes are reversible**, as you can set everything to default. (Speed limit enabled, FW 0%, HIT 1).
+The settings are not stored until you press "flash." If you only want to try some settings or use them for your current ride, apply them without storing (with the "flash" button). Locking the bike will dismiss them. Note that all changes are reversible, and you can set everything to default (speed limit enabled, FW 0%, HIT 1).
 
 Exemple of settings to apply : 
 
