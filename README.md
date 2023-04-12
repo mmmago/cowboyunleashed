@@ -87,7 +87,7 @@ The app automatically scans for Bluetooth devices and prompts you to unlock your
 
 The settings are not stored until you press "flash." If you only want to try some settings or use them for your current ride, apply them without storing (with the "flash" button). Locking the bike will dismiss them. Note that all changes are reversible, and you can set everything to default (speed limit enabled, FW 0%, HIT 1).
 
-Exemple of settings to apply : 
+Example of settings to apply : 
 
 - Remove speed limit / FW 15% ( / test ) / flash
 - Enable speed limit / FW 0% / flash (reset to default)
