@@ -9,7 +9,7 @@ An iOS app to lift the speed limit of your Cowboy Bike.
 
 **2. Please be aware that removing the 25km/h speed limit may render your bike unsuitable for use on public roads and spaces, and as such may be considered illegal. Please only use the app in private areas.**
 
-**3. Using this app may invalidate your warranty. Starting April 2023, Cowboy seems to effectively void warranty of bike using this app, as stated in the [terms of use](https://cowboy.com/pages/terms-of-use) (8.7).**
+**3. Using this app may invalidate your warranty. Starting April 2023, Cowboy seems to effectively void warranty of users that have made usage of this app, as stated in the [terms of use](https://cowboy.com/pages/terms-of-use) (8.7).**
 
 **4. Please note that the app is still in its beta phase, and although any bugs are not expected to cause harm, they may still exist.**
 
