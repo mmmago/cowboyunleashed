@@ -18,9 +18,9 @@ An iOS app to lift the speed limit of your Cowboy Bike.
 This iOS app enables you to debrid your Cowboy (C1 -> C4) bike, which enhances its riding experience and makes it more enjoyable. Additionally, the app allows you to view some internal bike metrics.
 
 - Compatible with all iPhones iOS 13 -> iOS 16
-- Confirmed working on cowboy **firmware 4.17** and lower.
+- Confirmed working on cowboy **firmware 4.19** and lower.
 
-#### Note for users of C4(ST) on 4.17 firmware and AdaptivePower: The app does not alter how the motor power is delivered; it simply removes the speed limit, so it is still fully compatible. However, adjusting your bike to "ECO" mode may override and affect the speed settings.
+#### Note for AdaptivePower: The app does not alter how the motor power is delivered; it simply removes the speed limit, so it is still fully compatible. However, adjusting your bike to "ECO" mode may temporarily override and affect the speed settings.
 
 
 # Shout out
