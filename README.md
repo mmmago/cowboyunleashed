@@ -9,13 +9,13 @@ An iOS app to lift the speed limit of your Cowboy Bike.
 
 **2. Please be aware that removing the 25km/h speed limit may render your bike unsuitable for use on public roads and spaces, and as such may be considered illegal. Please only use the app in private areas.**
 
-**3. Using this app may invalidate your warranty. Starting April 2023, Cowboy seems to effectively void warranty of users that have made usage of this app, as stated in the [terms of use](https://cowboy.com/pages/terms-of-use) (8.7).**
+**3. Using this app may invalidate your warranty. Starting April 2023, Cowboy seems to effectively void warranty of users that have made usage of this app, as stated in the [terms of use](https://cowboy.com/pages/terms-of-use).**
 
 **4. Please note that the app is still in its beta phase, and although any bugs are not expected to cause harm, they may still exist.**
 
 # Usage
 
-This iOS app enables you to debrid your Cowboy (C1 -> C4) bike, which enhances its riding experience and makes it more enjoyable. Additionally, the app allows you to view some internal bike metrics.
+This iOS app enables you to debrid your Cowboy (C1 -> Cruiser) bike, which enhances its riding experience and makes it more enjoyable. Additionally, the app allows you to view some internal bike metrics.
 
 - Compatible with all iPhones iOS 13 -> iOS 16
 - Confirmed working on cowboy **firmware 4.19** and lower.
@@ -70,16 +70,16 @@ As this app is not on the appstore, you need to **sideload it** your favourite w
 # Main features
 
 1. Alternative dashboard 
-- Basic navigation capabilitites using Apple MapKit
-- Long press assistance button to disable / enable speed limit
+- Basic navigation capabilitites using Apple MapKit.
+- Long press assistance button to disable / enable speed limit.
 - While disabled, press assistance button to switch between speed modes (customizable in settings).
-2. Customize or disable the 25km/h speed limit 
+2. Customize or disable the 25km/h speed limit.
 3. Edit the field weakening parameter to increase assistance at higher speeds.
-4. Enable *Auto Unlock* on the C1+
+4. Enable *Auto Unlock* on the C1+.
 5. Edit the Hall Interpolation Transitions (HIT) to resolve motor judder at startup.
-6. Edit blinking rear light sensivity when you brake
+6. Edit blinking rear light sensivity when you brake.
 7.  Reset the PCB (printed circuit board), which might resolve some minor issues with the C1+ and improve connectivity. Note that this won't reset any other settings made with the app.
-8. Read other bike values, such as battery cicles
+8. Read other bike values, such as battery cycles.
 
 The app automatically scans for Bluetooth devices and prompts you to unlock your bike if it finds it. Set the desired settings, try them out, and if you wish to keep them, press "flash," which will also lock your bike.
 
