@@ -45,7 +45,7 @@ Creating this app required several late-night sessions and some headaches, espec
 
 As this app is not on the appstore, you need to **sideload it** your favourite way. The process is quite easy, [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/), [Scarlett](https://usescarlet.com/) ).
 
-**If using Sideloadly or AltStore, be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading.** ([things will change soon with iOS 17](https://techcrunch.com/2022/12/14/apple-will-reportedly-allow-sideloading-apps-with-ios-17/) )
+**If using Sideloadly or AltStore, be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading. I am not planning to release this on the AppStore or any alternative store if they need to be review by Apple.**
 
 ##### If your device is compatible (iOS 14.0 - 15.1.1), you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
 
