@@ -107,3 +107,5 @@ V1.2 allows you to choose a preset via Quick Action. Currently, you have to make
 
 These are the default values. v4.1 allows to tweak them.
 
+<p align="center"> <a href="https://www.buymeacoffee.com/unleashedapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <p>
+
