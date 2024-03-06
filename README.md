@@ -32,6 +32,9 @@ Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[
 
 Creating this app required several late-night sessions and some headaches, especially since I am new to iOS programming. If you would like to receive future updates and improvements, please provide your feedback and consider supporting me by [**donating**](https://linktr.ee/mmmago).
 
+
+<p align="center"> <a href="https://www.buymeacoffee.com/unleashedapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <p>
+
 # Preview
 
 
@@ -106,6 +109,4 @@ V1.2 allows you to choose a preset via Quick Action. Currently, you have to make
 - Speed Mode 2 : Speed limit disabled / FW 18%
 
 These are the default values. v4.1 allows to tweak them.
-
-<p align="center"> <a href="https://www.buymeacoffee.com/unleashedapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <p>
 
