@@ -11,7 +11,7 @@ An iOS app to lift the speed limit of your Cowboy Bike.
 
 **3. Using this app may invalidate your warranty. Starting April 2023, Cowboy seems to effectively void warranty of users that have made usage of this app, as stated in the [terms of use](https://cowboy.com/pages/terms-of-use).**
 
-**4. Please note that the app is still in its beta phase, and although any bugs are not expected to cause harm, they may still exist.**
+**4. Unlike others applications charging you by trying to mimic the behaviour of this app with some fancy UI, this one will remains available to download for free, and won't be removed of any app store. :-) **
 
 # Usage
 
