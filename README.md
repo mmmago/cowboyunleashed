@@ -50,7 +50,7 @@ As this app is not on the appstore, you need to **sideload it** your favourite w
 
 **If using Sideloadly or AltStore, be careful that the app will need to be re-installed / re-signed every 7 days in order to work as this is how apple restricts sideloading. I am not planning to release this on the AppStore or any alternative store if they need to be review by Apple.**
 
-##### If your device is compatible (iOS 14.0 - 15.1.1), you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
+##### If your device is compatible, you can use [Trollstore](https://trollstore.app/) to keep the app indefinitely.
 
 ## Installation tutorial 
 
