@@ -2,7 +2,7 @@
 
 An iOS app to lift the speed limit of your Cowboy Bike — now rebuilt in SwiftUI.
 
-# Legal Notice / Disclaimer
+# Legal Notice / Disclaimer 
 
 **1. I cannot be held responsible for any parts damage or harm that may occur to your bike as a result of using this app.**
 
