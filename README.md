@@ -42,7 +42,7 @@ Creating this app required several late-night sessions and some headaches, espec
 
 # Download / Installation
 
-An IPA build is available in the [`IPA`](IPA) folder of this repo.
+An IPA build is available in the [release tab](https://github.com/mmmago/cowboyunleashed/releases/tag/v5.0).
 
 As this app is not on the appstore, you need to **sideload it** your favourite way. The process is quite easy, [Sideloadly](https://sideloadly.io/) can help you with that, but there are other ways (e.g. [Altstore](https://altstore.io/), buying a cheap certificate on [Flarestore](https://flarestore.vip/) to sideload, ... ).
 
