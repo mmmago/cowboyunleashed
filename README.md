@@ -12,6 +12,16 @@ An iOS app to lift the speed limit of your Cowboy Bike — now rebuilt in SwiftU
 
 **4. Unlike others applications charging you by trying to mimic the behaviour of this app with some fancy UI, this one will remain available to download for free, and won't be removed of any app store. :-)**
 
+
+# Preview
+
+<p align="center">
+  <img width="200" alt="Home - locked (dark)" src="https://files.catbox.moe/80ae94.PNG">
+  <img width="200" alt="Home - searching (light)" src="https://files.catbox.moe/jxwfgv.PNG">
+  <img width="200" alt="Diagnostics" src="https://files.catbox.moe/iam1j8.PNG">
+  <img width="200" alt="Assistance" src="https://files.catbox.moe/6ml9rj.PNG">
+</p>
+
 # Usage
 
 This iOS app enables you to debrid your Cowboy (C1 -> Cross) bike, which enhances its riding experience and makes it more enjoyable. Additionally, the app allows you to view some internal bike metrics.
@@ -30,15 +40,6 @@ Please give a lot of credit to [Imaginous](https://github.com/Imaginous) for **[
 Creating this app required several late-night sessions and some headaches, especially since I was new to iOS programming when I created it. If you would like to receive future updates and improvements, please provide your feedback and consider supporting me by [**donating**](https://linktr.ee/mmmago).
 
 <p align="center"> <a href="https://www.buymeacoffee.com/unleashedapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <p>
-
-# Preview
-
-<p align="center">
-  <img width="200" alt="Home - locked (dark)" src="https://files.catbox.moe/80ae94.PNG">
-  <img width="200" alt="Home - searching (light)" src="https://files.catbox.moe/jxwfgv.PNG">
-  <img width="200" alt="Diagnostics" src="https://files.catbox.moe/iam1j8.PNG">
-  <img width="200" alt="Assistance" src="https://files.catbox.moe/6ml9rj.PNG">
-</p>
 
 # Download / Installation
 
