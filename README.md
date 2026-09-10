@@ -34,10 +34,10 @@ Creating this app required several late-night sessions and some headaches, espec
 # Preview
 
 <p align="center">
-  <img width="220" alt="Home - locked (dark)" src="https://files.catbox.moe/80ae94.PNG">
-  <img width="220" alt="Home - searching (light)" src="https://files.catbox.moe/jxwfgv.PNG">
-  <img width="220" alt="Diagnostics" src="https://files.catbox.moe/iam1j8.PNG">
-  <img width="220" alt="Assistance" src="https://files.catbox.moe/6ml9rj.PNG">
+  <img width="200" alt="Home - locked (dark)" src="https://files.catbox.moe/80ae94.PNG">
+  <img width="200" alt="Home - searching (light)" src="https://files.catbox.moe/jxwfgv.PNG">
+  <img width="200" alt="Diagnostics" src="https://files.catbox.moe/iam1j8.PNG">
+  <img width="200" alt="Assistance" src="https://files.catbox.moe/6ml9rj.PNG">
 </p>
 
 # Download / Installation
