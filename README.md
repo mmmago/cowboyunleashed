@@ -1,6 +1,6 @@
 # <img width="50" alt="unleashed" src="https://files.catbox.moe/zhuu6x.png"> cowboy unleashed
 
-An iOS app to lift the speed limit of your Cowboy Bike — now rebuilt in SwiftUI.
+An iOS app to lift the speed limit of your Cowboy Bike.
 
 # Legal Notice / Disclaimer 
 
